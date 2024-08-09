@@ -1,6 +1,6 @@
 {
-    "name": "dars_14",
-    "short_name": "dars_14",
+    "name": "flutter_todos",
+    "short_name": "flutter_todos",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
